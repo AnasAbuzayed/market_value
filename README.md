@@ -14,7 +14,7 @@ This repository provides the code and supporting materials for the research arti
 
 The study investigates the gap between model-based optimal dispatch and actual market outcomes in electricity markets, and evaluates how effectively price signals incentivize renewable expansion. It is built using the open-source energy system modeling framework [PyPSA](https://github.com/PyPSA/PyPSA).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16392189.svg)](https://doi.org/10.5281/zenodo.16392189)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16394138.svg)](https://doi.org/10.5281/zenodo.16394138)
 
 ---
 
@@ -77,7 +77,7 @@ python revenueanalysis.py
 ## 🔁 Reproducibility
 
 - The model is built using publicaly available data. All data used is cited in the paper.
-- New generated data can be reproduced from the codes in this repo and archived on [Zenodo](https://doi.org/10.5281/zenodo.16392189).
+- New generated data can be reproduced from the codes in this repo and archived on [Zenodo](https://doi.org/10.5281/zenodo.16394138).
 
 ---
 
