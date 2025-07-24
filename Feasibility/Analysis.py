@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 @author: Anas Abuzayed © 2025
-https://github.com/AnasAbuzayed/H2_CCGT
+https://github.com/AnasAbuzayed/market_value
 
 Description:
-This script reproduces figure 2 All data used are cited in the main paper. 
+This repository provides the code and supporting materials for the research article:
+
+From Model Optimality to Market Reality: Do Electricity Markets Support Renewable Investments?
+
+The study investigates the gap between model-based optimal dispatch and actual market outcomes in electricity markets, and evaluates how effectively price signals incentivize renewable expansion. 
 
 """
 
