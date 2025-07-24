@@ -1,8 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 18 02:49:39 2025
+@author: Anas Abuzayed © 2025
+https://github.com/AnasAbuzayed/market_value
 
-@author: Anas
+Description:
+This repository provides the code and supporting materials for the research article:
+
+From Model Optimality to Market Reality: Do Electricity Markets Support Renewable Investments?
+
+The study investigates the gap between model-based optimal dispatch and actual market outcomes in electricity markets, and evaluates how effectively price signals incentivize renewable expansion. 
+
 """
 
 import pypsa
